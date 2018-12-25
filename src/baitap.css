@@ -1,0 +1,30 @@
+/*.footer {*/
+    /*position: fixed;*/
+    /*left: 0;*/
+    /*bottom: 0;*/
+    /*width: 100%;*/
+    /*height: 50px;*/
+    /*background-color: #55968f;*/
+    /*color: white;*/
+    /*text-align: center;*/
+
+/*}*/
+/*.child{*/
+    /*position:relative;*/
+    /*width:20px;*/
+    /*height:20px;*/
+    /*margin: auto;*/
+/*}*/
+/*.child1{*/
+    /*position: absolute;*/
+    /*border-left: 30px solid transparent;*/
+    /*border-right: 30px solid transparent;*/
+    /*border-top:30px solid #f67e7d;*/
+
+/*}*/
+/*.card-title{*/
+    /*text-align: center;*/
+/*}*/
+.card-deck{
+    margin-top: 80px;
+}
